@@ -4,9 +4,6 @@
 # In[3]:
 
 
-#
-# base code from Github user pmcbride: https://github.com/pmcbride/REDNet-TensorFlow/blob/master/rednet.py
-#
 
 from __future__ import print_function
 from __future__ import absolute_import
